@@ -2,9 +2,9 @@
 
 </script>
 <template>
-  <section style="display: none;">
-    自己架一個.vue、我要練習eventBus!!!!
-    <div>mitt是啥?? 與eventbus有啥關聯?
+  <section>
+    <p style="display: none;">自己架一個.vue、我要練習eventBus!!!!</p>
+    <div style="display: none;">mitt是啥?? 與eventbus有啥關聯?
       <a href="https://github.com/developit/mitt?tab=readme-ov-file#mitt" target="_blank">mitt</a>
     </div>
     <div>
