@@ -9,7 +9,7 @@
     </div>
     <div>
       <h2>chatgpt said: XX</h2>
-      <main style="display:none;">
+      <main style="display: none;">
         创建和使用 EventBus
         创建 EventBus 实例
 
