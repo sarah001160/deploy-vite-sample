@@ -8,7 +8,7 @@
       <a href="https://github.com/developit/mitt?tab=readme-ov-file#mitt" target="_blank">mitt</a>
     </div>
     <div>
-      <h2>chatgpt said: XX</h2>
+      <h2>chatgpt said: XXX</h2>
       <main style="display: none;">
         创建和使用 EventBus
         创建 EventBus 实例
