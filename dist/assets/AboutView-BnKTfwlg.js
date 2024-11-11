@@ -1,0 +1,1 @@
+import{_ as t,c as o,o as s,a as e}from"./index-CgIxPj2A.js";const c={},a={class:"about"},n=e("h1",null,"This is an about page",-1),_=e("section",null,"這是about頁面，測試更新後，gitpage是否更新成功?",-1),i=[n,_];function r(d,l){return s(),o("div",a,i)}const h=t(c,[["render",r]]);export{h as default};
